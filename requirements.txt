@@ -6,7 +6,6 @@ charset-normalizer==3.4.5
 Django==6.0.2
 django-debug-toolbar==6.2.0
 idna==3.11
-PyAudio==0.2.14
 pycparser==3.0
 python-vlc==3.0.21203
 requests==2.32.5
